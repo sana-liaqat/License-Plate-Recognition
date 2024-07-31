@@ -15,8 +15,8 @@ The License Plate Recognition System aims to accurately detect and read license 
 ## Installation
 
 ### Prerequisites
-2. Python 3.6+
-3. pip
+1. Python 3.6+
+2. pip
 
 ### Dependencies
 The project requires the following Python libraries:
@@ -39,8 +39,8 @@ To use the License Plate Recognition System, follow these steps:
 7. Display the result by overlaying the detected text on the original image.
 
 ## Project Structure
-images/: Directory containing sample images for testing.
-notebooks/: Jupyter/Colab notebook for experimentation and demonstration.
+1. images/: Directory containing sample images for testing.
+2. notebook/: Jupyter/Colab notebook for experimentation and demonstration.
 
 ## Methodology
 1. Image Preprocessing: Load the image and convert it to grayscale. Apply noise reduction using bilateral filtering.
